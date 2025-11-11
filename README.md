@@ -1,14 +1,19 @@
-# Citation_aware_Bilingual_Legal_Document_Summarizer
+# ⚖️ Citation-Aware Bilingual Legal Document Summarizer
 
-📚 A research-driven pipeline for legal document understanding and bilingual summarization using mT5, Legal-BERT, and citation-aware reasoning.
-###🚀 Overview
+📚 *A research-driven pipeline for legal document understanding and bilingual summarization using mT5, Legal-BERT, and citation-aware reasoning.*
 
-This project presents a Citation-Aware Legal Summarization System that processes Indian court judgments (English or Hindi) into bilingual summaries (English + Hindi) while preserving legal citations and context relevance.
+---
 
-The model is fine-tuned on a curated dataset of 40 Indian court judgments from the Indian Kanoon
- database, with emphasis on citation-based contextual reasoning and parallel translation.
+## 🚀 Overview
+This project presents a **Citation-Aware Legal Summarization System** that processes Indian court judgments (English or Hindi) into **bilingual summaries (English + Hindi)** while **preserving legal citations and contextual reasoning**.
 
- ###Pipeline Architecture
+The model is fine-tuned on a curated dataset of **40 Indian court judgments** collected from the **[Indian Kanoon](https://indiankanoon.org)** database, focusing on **citation-based contextual summarization** and **parallel translation**.
+
+---
+
+## 🧠 Pipeline Architecture
+
+
  1️⃣ Input Legal Document (English/Hindi)
         │
         ▼
@@ -36,7 +41,7 @@ The model is fine-tuned on a curated dataset of 40 Indian court judgments from t
    → JSON: {English_summary, Hindi_summary, citations, sections}
 
 
-###Dataset
+##Dataset
 
 Source: 40 Indian High Court and Supreme Court judgments collected from Indian Kanoon
 
@@ -65,7 +70,7 @@ Citation normalization
 
 Salience tagging via cosine similarity + Legal-BERT
 
-###Output Example
+##Output Example
 {
   "doc_id": "Suresh_Kalmadi_vs_CBI_2012",
   "summary_en_ctxaware": "The Court held that the object of bail is to ensure presence at trial, not punishment. Bail is the rule, jail the exception.",
