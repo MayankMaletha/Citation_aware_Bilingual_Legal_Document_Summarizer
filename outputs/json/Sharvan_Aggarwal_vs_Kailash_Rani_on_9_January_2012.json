@@ -1,0 +1,114 @@
+{
+  "doc_id": "Sharvan_Aggarwal_vs_Kailash_Rani_on_9_January_2012",
+  "filename": "Sharvan_Aggarwal_vs_Kailash_Rani_on_9_January_2012.PDF",
+  "filepath": "D:\\legal-summarizer\\English\\Sharvan_Aggarwal_vs_Kailash_Rani_on_9_January_2012.PDF",
+  "md5": "17006767384203e2ae9fa9b17c07dbbd",
+  "ocr_used": false,
+  "language": "en",
+  "word_count": 1396,
+  "citations_count": 3,
+  "citations": [
+    {
+      "match": "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 Sharvan Aggarwal vs Kailash Rani on 9 January, 2012",
+      "start": 0,
+      "end": 103,
+      "year": null,
+      "page": null,
+      "case": "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 Sharvan Aggarwal vs Kailash Rani on 9 January, ",
+      "reporter": null
+    },
+    {
+      "match": "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012",
+      "start": 1757,
+      "end": 1808,
+      "year": null,
+      "page": null,
+      "case": "Sharvan Aggarwal vs Kailash Rani on 9 January, ",
+      "reporter": null
+    },
+    {
+      "match": "has been dismissed by the Supreme Court on 7.7.2011. Sharvan Aggarwal vs Kailash Rani on 9 January, 2012",
+      "start": 5160,
+      "end": 5264,
+      "year": null,
+      "page": null,
+      "case": "has been dismissed by the Supreme Court on 7.7.2011. Sharvan Aggarwal vs Kailash Rani on 9 January, ",
+      "reporter": null
+    }
+  ],
+  "citation_contexts": [
+    {
+      "citation": "Sharvan_Aggarwal_vs_Kailash_Rani_on_9_January_2012_Sharvan_Aggarwal_vs_Kailash_R",
+      "raw": "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 Sharvan Aggarwal vs Kailash Rani on 9 January, 2012",
+      "sent_index": 0,
+      "context_window": [
+        "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 Author: Valmiki J. Mehta Bench: Valmiki J.Mehta * IN THE HIGH COURT OF DELHI AT NEW DELHI + RFA No.19/2012 % 9th January, 2012 SHARVAN AGGARWAL ...... Appellant Through: Mr.J.P.Sengh, Sr.",
+        "Adv.",
+        "with Mr."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 0,
+          "sentence": "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 Author: Valmiki J. Mehta Bench: Valmiki J.Mehta * IN THE HIGH COURT OF DELHI AT NEW DELHI + RFA No.19/2012 % 9th January, 2012 SHARVAN AGGARWAL ...... Appellant Through: Mr.J.P.Sengh, Sr.",
+          "score": 1.0000001192092896
+        },
+        {
+          "idx": 47,
+          "sentence": "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 8.",
+          "score": 0.8523781299591064
+        }
+      ]
+    },
+    {
+      "citation": "Sharvan_Aggarwal_vs_Kailash_Rani_on_9_January",
+      "raw": "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012",
+      "sent_index": 16,
+      "context_window": [
+        "The subject suit for possession and mesne profits thereafter came to be filed.",
+        "3.",
+        "In a suit for possession of a premises which is outside the protection of Delhi Rent Control Act, 1958, the following three requirements have to be established:- i) There is a relationship of landlord and tenant between the parties; Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 ii) The rate of rent is more than `3,500/- per month; and iii) The monthly tenancy is terminated by means of a legal notice under Section 106 of the Transfer of Property Act, 1882 (hereinafter referred to as „the Act(cid:129)).",
+        "4.",
+        "In the present case, the premises were originally let out to the appellant/defendant by Sh."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 16,
+          "sentence": "In a suit for possession of a premises which is outside the protection of Delhi Rent Control Act, 1958, the following three requirements have to be established:- i) There is a relationship of landlord and tenant between the parties; Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 ii) The rate of rent is more than `3,500/- per month; and iii) The monthly tenancy is terminated by means of a legal notice under Section 106 of the Transfer of Property Act, 1882 (hereinafter referred to as „the Act(cid:129)).",
+          "score": 1.0
+        },
+        {
+          "idx": 33,
+          "sentence": "Therefore, even if we accept the stand of the appellant/defendant, the rate of rent is more than `3,500/- per month, and thus the premises are outside the protection of the Delhi Rent Control Act, 1958 and consequently the suit for possession could have been filed terminating the monthly tenancy.",
+          "score": 0.8109319806098938
+        }
+      ]
+    },
+    {
+      "citation": "has_been_dismissed_by_the_Supreme_Court_on_772011_Sharvan_Aggarwal_vs_Kailash_Ra",
+      "raw": "has been dismissed by the Supreme Court on 7.7.2011. Sharvan Aggarwal vs Kailash Rani on 9 January, 2012",
+      "sent_index": 46,
+      "context_window": [
+        "The aforesaid aspects can be taken note of under Order 7 Rule 7 CPC.",
+        "I have held that Court should take a pragmatic view in view of the legislative intendment as demonstrated by Act 3 of 2003, amending Section 106 of the Act.",
+        "An SLP against the said judgment being SLP No.15740/2011 has been dismissed by the Supreme Court on 7.7.2011.",
+        "Sharvan Aggarwal vs Kailash Rani on 9 January, 2012 8.",
+        "The argument as raised on behalf of the appellant/defendant that the lease in this case should be held to be for a manufacturing purpose because it is so provided in para 3 of the lease deed dated 17.12.2003, is an argument which I reject inasmuch as the lease deed dated 17.12.2003 is not a registered document, and therefore, the terms of the lease deed cannot be looked into in view of the Section 49 of the Registration Act, 1908."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 46,
+          "sentence": "An SLP against the said judgment being SLP No.15740/2011 has been dismissed by the Supreme Court on 7.7.2011.",
+          "score": 1.000000238418579
+        },
+        {
+          "idx": 59,
+          "sentence": "In view of the above, I do not find any merit in the appeal, which is accordingly dismissed, leaving the parties to bear their own costs.",
+          "score": 0.5647921562194824
+        }
+      ]
+    }
+  ],
+  "summary_en": "<extra_id_0>:",
+  "summary_hi": null,
+  "alignment": null
+}

@@ -1,0 +1,182 @@
+{
+  "doc_id": "Naim_Ahamed_vs_State_Nct_Of_Delhi_on_30_January_2023",
+  "filename": "Naim_Ahamed_vs_State_Nct_Of_Delhi_on_30_January_2023.PDF",
+  "filepath": "D:\\legal-summarizer\\English\\Naim_Ahamed_vs_State_Nct_Of_Delhi_on_30_January_2023.PDF",
+  "md5": "c80584080a8b98653d945d0cd2b87306",
+  "ocr_used": false,
+  "language": "en",
+  "word_count": 6444,
+  "citations_count": 5,
+  "citations": [
+    {
+      "match": "(2005) 1 SCC 88",
+      "start": 7224,
+      "end": 7239,
+      "year": "2005",
+      "page": "88",
+      "case": null,
+      "reporter": "SCC"
+    },
+    {
+      "match": "(2013) 9 SCC 293",
+      "start": 7242,
+      "end": 7258,
+      "year": "2013",
+      "page": "293",
+      "case": null,
+      "reporter": "SCC"
+    },
+    {
+      "match": "(2019) 18 SCC 191",
+      "start": 7261,
+      "end": 7278,
+      "year": "2019",
+      "page": "191",
+      "case": null,
+      "reporter": "SCC"
+    },
+    {
+      "match": "(2003) 4 SCC 46",
+      "start": 16992,
+      "end": 17007,
+      "year": "2003",
+      "page": "46",
+      "case": null,
+      "reporter": "SCC"
+    },
+    {
+      "match": "(2013) 7 SCC 675",
+      "start": 23279,
+      "end": 23295,
+      "year": "2013",
+      "page": "675",
+      "case": null,
+      "reporter": "SCC"
+    }
+  ],
+  "citation_contexts": [
+    {
+      "citation": "2005::SCC::88",
+      "raw": "(2005) 1 SCC 88",
+      "sent_index": 50,
+      "context_window": [
+        "7.",
+        "Sh.",
+        "K.L Janjani, learned counsel appearing for the respondentState however submitted that the Sessions Court and the High 1 (2005) 1 SCC 88 2 (2013) 9 SCC 293 3 (2019) 18 SCC 191 Court having concurrently recorded findings of facts against the appellant-accused, holding him guilty under Section 376 IPC, this Court should not interfere with the same.",
+        "According to him, even otherwise, the prosecution had proved beyond doubt that the appellant-accused had lured the prosecutrix to have sexual relationship with him by giving her a false promise that he would marry her, however, he committed breach of the promise after she delivered the child, which clearly proved that her consent was obtained by the appellant under the misconception of fact.",
+        "8."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 50,
+          "sentence": "K.L Janjani, learned counsel appearing for the respondentState however submitted that the Sessions Court and the High 1 (2005) 1 SCC 88 2 (2013) 9 SCC 293 3 (2019) 18 SCC 191 Court having concurrently recorded findings of facts against the appellant-accused, holding him guilty under Section 376 IPC, this Court should not interfere with the same.",
+          "score": 0.9999999403953552
+        },
+        {
+          "idx": 161,
+          "sentence": "Now, in the instant case, having regard to the statutory provisions and their interpretations by this Court in various judgements, one may be tempted to hold the appellant-accused guilty of the offence under Section 376 IPC as has been done by the Sessions Court and the High Court, however, on the closer scrutiny of the evidence on record, we find that it was fallacy on the part of the courts below to hold the appellant guilty under Section 376 IPC.",
+          "score": 0.7507604360580444
+        }
+      ]
+    },
+    {
+      "citation": "2013::SCC::293",
+      "raw": "(2013) 9 SCC 293",
+      "sent_index": 50,
+      "context_window": [
+        "7.",
+        "Sh.",
+        "K.L Janjani, learned counsel appearing for the respondentState however submitted that the Sessions Court and the High 1 (2005) 1 SCC 88 2 (2013) 9 SCC 293 3 (2019) 18 SCC 191 Court having concurrently recorded findings of facts against the appellant-accused, holding him guilty under Section 376 IPC, this Court should not interfere with the same.",
+        "According to him, even otherwise, the prosecution had proved beyond doubt that the appellant-accused had lured the prosecutrix to have sexual relationship with him by giving her a false promise that he would marry her, however, he committed breach of the promise after she delivered the child, which clearly proved that her consent was obtained by the appellant under the misconception of fact.",
+        "8."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 50,
+          "sentence": "K.L Janjani, learned counsel appearing for the respondentState however submitted that the Sessions Court and the High 1 (2005) 1 SCC 88 2 (2013) 9 SCC 293 3 (2019) 18 SCC 191 Court having concurrently recorded findings of facts against the appellant-accused, holding him guilty under Section 376 IPC, this Court should not interfere with the same.",
+          "score": 0.9999999403953552
+        },
+        {
+          "idx": 161,
+          "sentence": "Now, in the instant case, having regard to the statutory provisions and their interpretations by this Court in various judgements, one may be tempted to hold the appellant-accused guilty of the offence under Section 376 IPC as has been done by the Sessions Court and the High Court, however, on the closer scrutiny of the evidence on record, we find that it was fallacy on the part of the courts below to hold the appellant guilty under Section 376 IPC.",
+          "score": 0.7507604360580444
+        }
+      ]
+    },
+    {
+      "citation": "2019::SCC::191",
+      "raw": "(2019) 18 SCC 191",
+      "sent_index": 50,
+      "context_window": [
+        "7.",
+        "Sh.",
+        "K.L Janjani, learned counsel appearing for the respondentState however submitted that the Sessions Court and the High 1 (2005) 1 SCC 88 2 (2013) 9 SCC 293 3 (2019) 18 SCC 191 Court having concurrently recorded findings of facts against the appellant-accused, holding him guilty under Section 376 IPC, this Court should not interfere with the same.",
+        "According to him, even otherwise, the prosecution had proved beyond doubt that the appellant-accused had lured the prosecutrix to have sexual relationship with him by giving her a false promise that he would marry her, however, he committed breach of the promise after she delivered the child, which clearly proved that her consent was obtained by the appellant under the misconception of fact.",
+        "8."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 50,
+          "sentence": "K.L Janjani, learned counsel appearing for the respondentState however submitted that the Sessions Court and the High 1 (2005) 1 SCC 88 2 (2013) 9 SCC 293 3 (2019) 18 SCC 191 Court having concurrently recorded findings of facts against the appellant-accused, holding him guilty under Section 376 IPC, this Court should not interfere with the same.",
+          "score": 0.9999999403953552
+        },
+        {
+          "idx": 161,
+          "sentence": "Now, in the instant case, having regard to the statutory provisions and their interpretations by this Court in various judgements, one may be tempted to hold the appellant-accused guilty of the offence under Section 376 IPC as has been done by the Sessions Court and the High Court, however, on the closer scrutiny of the evidence on record, we find that it was fallacy on the part of the courts below to hold the appellant guilty under Section 376 IPC.",
+          "score": 0.7507604360580444
+        }
+      ]
+    },
+    {
+      "citation": "2003::SCC::46",
+      "raw": "(2003) 4 SCC 46",
+      "sent_index": 99,
+      "context_window": [
+        "It therefore appears that the consensus of judicial opinion is in favour of the view that the consent given by the prosecutrix to sexual intercourse with a person with whom she is deeply in love on a promise that he would marry her on a later date, cannot be said to be given under a misconception of fact.",
+        "A false promise is not a fact within the meaning of the Code.",
+        "We are inclined to 4 (2003) 4 SCC 46 agree with this view, but we must add that there is no straitjacket formula for determining whether consent given by the prosecutrix to sexual intercourse is voluntary, or whether it is given under a misconception of fact.",
+        "In the ultimate analysis, the tests laid down by the courts provide at best guidance to the judicial mind while considering a question of consent, but the court must, in each case, consider the evidence before it and the surrounding circumstances, before reaching a conclusion, because each case has its own peculiar facts which may have a bearing on the question whether the consent was voluntary, or was given under a misconception of fact.",
+        "It must also weigh the evidence keeping in view the fact that the burden is on the prosecution to prove each and every ingredient of the offence, absence of consent being one of them."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 99,
+          "sentence": "We are inclined to 4 (2003) 4 SCC 46 agree with this view, but we must add that there is no straitjacket formula for determining whether consent given by the prosecutrix to sexual intercourse is voluntary, or whether it is given under a misconception of fact.",
+          "score": 0.9999996423721313
+        },
+        {
+          "idx": 97,
+          "sentence": "It therefore appears that the consensus of judicial opinion is in favour of the view that the consent given by the prosecutrix to sexual intercourse with a person with whom she is deeply in love on a promise that he would marry her on a later date, cannot be said to be given under a misconception of fact.",
+          "score": 0.7843728065490723
+        }
+      ]
+    },
+    {
+      "citation": "2013::SCC::675",
+      "raw": "(2013) 7 SCC 675",
+      "sent_index": 139,
+      "context_window": [
+        "There is a distinction between the mere breach of a promise, and not fulfilling a false promise.",
+        "Thus, the court must examine whether there was made, at an early stage a false promise of marriage by the accused; and whether the consent involved was given after wholly understanding the nature and consequences of sexual indulgence.",
+        "There may be a case where the prosecutrix agrees to have sexual intercourse on 5 (2013) 7 SCC 675 account of her love and passion for the accused, and not solely on account of misrepresentation made to her by the accused, or where an accused on account of circumstances which he could not have foreseen, or which were beyond his control, was unable to marry her, despite having every intention to do so.",
+        "Such cases must be treated differently.",
+        "An accused can be convicted for rape only if the court reaches a conclusion that the intention of the accused was mala fide, and that he had clandestine motives."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 139,
+          "sentence": "There may be a case where the prosecutrix agrees to have sexual intercourse on 5 (2013) 7 SCC 675 account of her love and passion for the accused, and not solely on account of misrepresentation made to her by the accused, or where an accused on account of circumstances which he could not have foreseen, or which were beyond his control, was unable to marry her, despite having every intention to do so.",
+          "score": 1.0
+        },
+        {
+          "idx": 157,
+          "sentence": "There may be a case where the prosecutrix agrees to have sexual intercourse on account of her love and passion for the accused and not solely on account of the misconception created by accused, or where an accused, on account of circumstances which he could not have foreseen or which were beyond his control, was unable to marry her despite having every intention to do.",
+          "score": 0.9410172700881958
+        }
+      ]
+    }
+  ],
+  "summary_en": "<extra_id_0>.",
+  "summary_hi": null,
+  "alignment": null
+}

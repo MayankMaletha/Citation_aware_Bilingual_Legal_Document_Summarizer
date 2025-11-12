@@ -1,0 +1,81 @@
+{
+  "doc_id": "Shri_Nitin_Garg_vs_Sh_Naresh_Arora_on_13_January_2012",
+  "filename": "Shri_Nitin_Garg_vs_Sh_Naresh_Arora_on_13_January_2012.PDF",
+  "filepath": "D:\\legal-summarizer\\English\\Shri_Nitin_Garg_vs_Sh_Naresh_Arora_on_13_January_2012.PDF",
+  "md5": "588ee230a6fe085333b6fc0a3c598caa",
+  "ocr_used": false,
+  "language": "en",
+  "word_count": 764,
+  "citations_count": 2,
+  "citations": [
+    {
+      "match": "Shri Nitin Garg vs Sh. Naresh Arora on 13 January, 2012 Shri Nitin Garg vs Sh. Naresh Arora on 13 January, 2012",
+      "start": 0,
+      "end": 111,
+      "year": null,
+      "page": null,
+      "case": "Shri Nitin Garg vs Sh. Naresh Arora on 13 January, 2012 Shri Nitin Garg vs Sh. Naresh Arora on 13 January, ",
+      "reporter": null
+    },
+    {
+      "match": "Nangia Park, Shakti Nagar, Delhi shown as red colour in the site plan attached with the original suit, immediately in the interest of justice. Shri Nitin Garg vs Sh. Naresh Arora on 13 January, 2012",
+      "start": 1654,
+      "end": 1852,
+      "year": null,
+      "page": null,
+      "case": "Nangia Park, Shakti Nagar, Delhi shown as red colour in the site plan attached with the original suit, immediately in the interest of justice. Shri Nitin Garg vs Sh. Naresh Arora on 13 January, ",
+      "reporter": null
+    }
+  ],
+  "citation_contexts": [
+    {
+      "citation": "Shri_Nitin_Garg_vs_Sh_Naresh_Arora_on_13_January_2012_Shri_Nitin_Garg_vs_Sh_Nare",
+      "raw": "Shri Nitin Garg vs Sh. Naresh Arora on 13 January, 2012 Shri Nitin Garg vs Sh. Naresh Arora on 13 January, 2012",
+      "sent_index": 0,
+      "context_window": [
+        "Shri Nitin Garg vs Sh.",
+        "Naresh Arora on 13 January, 2012 Shri Nitin Garg vs Sh.",
+        "Naresh Arora on 13 January, 2012 Author: Indermeet Kaur Bench: Indermeet Kaur * IN THE HIGH COURT OF DELHI AT NEW DELHI % Date of Judgment: 13.01.2012 + C.R.P."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 0,
+          "sentence": "Shri Nitin Garg vs Sh.",
+          "score": 1.0
+        },
+        {
+          "idx": 21,
+          "sentence": "Shri Nitin Garg vs Sh.",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "citation": "Nangia_Park_Shakti_Nagar_Delhi_shown_as_red_colour_in_the_site_plan_attached_wit",
+      "raw": "Nangia Park, Shakti Nagar, Delhi shown as red colour in the site plan attached with the original suit, immediately in the interest of justice. Shri Nitin Garg vs Sh. Naresh Arora on 13 January, 2012",
+      "sent_index": 20,
+      "context_window": [
+        "29/2, Nangia Park, Shakti Nagar, Delhi along with costs of the suit.",
+        "B. That a decree of mandatory injunction may kindly be passed in favour of the plaintiff and against the defendant, thereby directing the defendant to reconstruct the latrine and bathroom of size 16(cid:129)X4(cid:129) at their original position in the premises No.",
+        "29/2, Nangia Park, Shakti Nagar, Delhi shown as red colour in the site plan attached with the original suit, immediately in the interest of justice.",
+        "Shri Nitin Garg vs Sh.",
+        "Naresh Arora on 13 January, 2012 C. That the defendants be directed to demolish the wall constructed blocking the door shown in the site plan on the north east portion of the shop."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 20,
+          "sentence": "29/2, Nangia Park, Shakti Nagar, Delhi shown as red colour in the site plan attached with the original suit, immediately in the interest of justice.",
+          "score": 1.0
+        },
+        {
+          "idx": 18,
+          "sentence": "29/2, Nangia Park, Shakti Nagar, Delhi along with costs of the suit.",
+          "score": 0.695222020149231
+        }
+      ]
+    }
+  ],
+  "summary_en": "<extra_id_0> of the suit.",
+  "summary_hi": null,
+  "alignment": null
+}

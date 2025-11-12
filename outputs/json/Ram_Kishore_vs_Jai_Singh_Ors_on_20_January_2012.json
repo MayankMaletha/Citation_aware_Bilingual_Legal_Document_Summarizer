@@ -1,0 +1,180 @@
+{
+  "doc_id": "Ram_Kishore_vs_Jai_Singh_Ors_on_20_January_2012",
+  "filename": "Ram_Kishore_vs_Jai_Singh_Ors_on_20_January_2012.PDF",
+  "filepath": "D:\\legal-summarizer\\English\\Ram_Kishore_vs_Jai_Singh_Ors_on_20_January_2012.PDF",
+  "md5": "2a92c5a3f4115cf07ee4f1bb8291c4e2",
+  "ocr_used": false,
+  "language": "en",
+  "word_count": 1709,
+  "citations_count": 5,
+  "citations": [
+    {
+      "match": "Ram Kishore vs Jai Singh & Ors. on 20 January, 2012 Ram Kishore vs Jai Singh & Ors. on 20 January, 2012",
+      "start": 0,
+      "end": 103,
+      "year": null,
+      "page": null,
+      "case": "Ram Kishore vs Jai Singh & Ors. on 20 January, 2012 Ram Kishore vs Jai Singh & Ors. on 20 January, ",
+      "reporter": null
+    },
+    {
+      "match": "Ram Kishore vs Jai Singh & Ors. on 20 January, 2012 ad-measures 4530",
+      "start": 2074,
+      "end": 2142,
+      "year": null,
+      "page": null,
+      "case": "Ram Kishore vs Jai Singh & Ors. on 20 January, 2012 ad-measures ",
+      "reporter": null
+    },
+    {
+      "match": "Lands for village pasture or land covered by water and used for growing singharas and other produce or land in the bed of a river and used for casual or occasional cultivation, But does not include - Ram Kishore vs Jai Singh & Ors. on 20 January, 2012",
+      "start": 4762,
+      "end": 5013,
+      "year": null,
+      "page": null,
+      "case": "Lands for village pasture or land covered by water and used for growing singharas and other produce or land in the bed of a river and used for casual or occasional cultivation, But does not include - Ram Kishore vs Jai Singh & Ors. on 20 January, ",
+      "reporter": null
+    },
+    {
+      "match": "Ram Kishore vs Jai Singh & Ors. on 20 January, 2012",
+      "start": 7067,
+      "end": 7118,
+      "year": null,
+      "page": null,
+      "case": "Ram Kishore vs Jai Singh & Ors. on 20 January, ",
+      "reporter": null
+    },
+    {
+      "match": "AIR 1999 SC 1464",
+      "start": 8423,
+      "end": 8439,
+      "year": "1999",
+      "page": "1464",
+      "case": null,
+      "reporter": "AIR"
+    }
+  ],
+  "citation_contexts": [
+    {
+      "citation": "Ram_Kishore_vs_Jai_Singh__Ors_on_20_January_2012_Ram_Kishore_vs_Jai_Singh__Ors_o",
+      "raw": "Ram Kishore vs Jai Singh & Ors. on 20 January, 2012 Ram Kishore vs Jai Singh & Ors. on 20 January, 2012",
+      "sent_index": 0,
+      "context_window": [
+        "Ram Kishore vs Jai Singh & Ors.",
+        "on 20 January, 2012 Ram Kishore vs Jai Singh & Ors.",
+        "on 20 January, 2012 Author: Pradeep Nandrajog Bench: Pradeep Nandrajog, Pratibha Rani * IN THE HIGH COURT OF DELHI AT NEW DELHI % Date of Decision : 20th January, 2012 + RFA(OS) 54/2008 RAM KISHORE ..... Appellant Through: Mr.Munish Tyagi, Advocate."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 0,
+          "sentence": "Ram Kishore vs Jai Singh & Ors.",
+          "score": 0.9999998807907104
+        },
+        {
+          "idx": 64,
+          "sentence": "Ram Kishore vs Jai Singh & Ors.",
+          "score": 0.9999998807907104
+        }
+      ]
+    },
+    {
+      "citation": "Ram_Kishore_vs_Jai_Singh__Ors_on_20_January_2012_admeasures",
+      "raw": "Ram Kishore vs Jai Singh & Ors. on 20 January, 2012 ad-measures 4530",
+      "sent_index": 23,
+      "context_window": [
+        "In para 12, it is pleaded that the plot as per plan marked „A(cid:129) ad-measures 206 sq.yds.",
+        "In para 13, it is pleaded that the plot as per plan marked „B(cid:129) ad-measures 408 sq.yds.",
+        "In para 14, it is pleaded that the largest plot as per plan marked „C(cid:129) Ram Kishore vs Jai Singh & Ors.",
+        "on 20 January, 2012 ad-measures 4530 sq.yds.",
+        "In para 24 and para 25 it is pleaded that the plots ad- measuring 550 sq.yds and 200 sq.yds."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 23,
+          "sentence": "In para 14, it is pleaded that the largest plot as per plan marked „C(cid:129) Ram Kishore vs Jai Singh & Ors.",
+          "score": 0.9999998807907104
+        },
+        {
+          "idx": 0,
+          "sentence": "Ram Kishore vs Jai Singh & Ors.",
+          "score": 0.6893014311790466
+        }
+      ]
+    },
+    {
+      "citation": "Lands_for_village_pasture_or_land_covered_by_water_and_used_for_growing_singhara",
+      "raw": "Lands for village pasture or land covered by water and used for growing singharas and other produce or land in the bed of a river and used for casual or occasional cultivation, But does not include - Ram Kishore vs Jai Singh & Ors. on 20 January, 2012",
+      "sent_index": 49,
+      "context_window": [
+        "7.",
+        "Section 55 of the Delhi Land Reforms Act 1954 confers the power upon a bhoomidar to sue for partition of a holding.",
+        "Land has been defined in Sub-Section 13 of Section 3 of the Delhi Land Reforms Act 1954 as under:- \"(13) \"land\" except in sections 23 and 24, means land held or occupied for purpose connected with agriculture, horticulture or animal husbandry including pisciculture and poultry farming and includes - (a) Buildings appurtenant thereto, (b) Village abadis, (c) Grovelands, (d) Lands for village pasture or land covered by water and used for growing singharas and other produce or land in the bed of a river and used for casual or occasional cultivation, But does not include - Ram Kishore vs Jai Singh & Ors.",
+        "on 20 January, 2012 land occupied by building in belts or areas adjacent to Delhi town, which the Chief Commissioner may be a notification in the Official Gazette declare as an acquisition thereto;\" 8.",
+        "Holding has been defined in Sub-Section 11(a) as under:- \"[(11a)\"holding means - (a) In respect of - (i) Bhumindar or Asami; or (ii) Tenant or sub-tenant under the Punjab Tenancy Act, 1887, or the Agra Tenancy Act, 1901; or (iii) Lessee under the Bhoodan Yagna Act, 1955, a parcel or parcels of land held under one tenure, lease, engagement or grant; and (b) In respect of proprietors, a parcel or parcels of land held as \"sir or khudkasht\"]\" 9."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 49,
+          "sentence": "Land has been defined in Sub-Section 13 of Section 3 of the Delhi Land Reforms Act 1954 as under:- \"(13) \"land\" except in sections 23 and 24, means land held or occupied for purpose connected with agriculture, horticulture or animal husbandry including pisciculture and poultry farming and includes - (a) Buildings appurtenant thereto, (b) Village abadis, (c) Grovelands, (d) Lands for village pasture or land covered by water and used for growing singharas and other produce or land in the bed of a river and used for casual or occasional cultivation, But does not include - Ram Kishore vs Jai Singh & Ors.",
+          "score": 1.0
+        },
+        {
+          "idx": 69,
+          "sentence": "It is clear that the bar under Section 185 of the Delhi Land Reforms Act 1954 would apply only to partition of such lands as constitute a holding of a bhoomidar and not the abadi lands in a village.",
+          "score": 0.6624773144721985
+        }
+      ]
+    },
+    {
+      "citation": "Ram_Kishore_vs_Jai_Singh__Ors_on_20_January",
+      "raw": "Ram Kishore vs Jai Singh & Ors. on 20 January, 2012",
+      "sent_index": 64,
+      "context_window": [
+        "(3) An appeal shall lie from the final order passed by a court mentioned in column 3 to the court or authority mentioned in column 8 thereof.",
+        "(4) A second appeal shall lie from the final order passed in an appeal under sub-section (3) to the authority, if any, mentioned against it in column 9 of the Schedule aforesaid.\"",
+        "Ram Kishore vs Jai Singh & Ors.",
+        "on 20 January, 2012 12.",
+        "Thus, as per the said Section, Revenue Courts alone would have jurisdiction to take cognizance of suits which are mentioned in Column „7(cid:129) of Schedule „I(cid:129) of the Act."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 0,
+          "sentence": "Ram Kishore vs Jai Singh & Ors.",
+          "score": 0.9999998807907104
+        },
+        {
+          "idx": 64,
+          "sentence": "Ram Kishore vs Jai Singh & Ors.",
+          "score": 0.9999998807907104
+        }
+      ]
+    },
+    {
+      "citation": "1999::AIR::1464",
+      "raw": "AIR 1999 SC 1464",
+      "sent_index": 74,
+      "context_window": [
+        "However, noting that the pleadings are vague and that qua land as per plan marked „C(cid:129) there is clarity of the said land being within the holding, the suit would not be maintainable in respect of said land in any case.",
+        "Qua the remainder land, on account of vagueness in pleading and additionally for the reason there is no averment regarding the settlement record where Mam Raj is recorded as the owner of the lands, we concur with the view taken that on said reasoning the suit is liable to be dismissed.",
+        "In the decision reported as AIR 1999 SC 1464 D.M.Deshpande vs.",
+        "Janardhan Kashinath Kadam, the Supreme Court clearly laid down that issues cannot be settled on vague pleadings and that if there is no concise statement of a material fact in either pleading i.e.",
+        "in the plaint or the written statement, the said plea has to be ignored."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 74,
+          "sentence": "In the decision reported as AIR 1999 SC 1464 D.M.Deshpande vs.",
+          "score": 1.0
+        },
+        {
+          "idx": 82,
+          "sentence": "Clarifying on the law as aforesaid but agreeing with the final decision arrived at, the appeal is dismissed leaving the parties to bear their own costs.",
+          "score": 0.5711681842803955
+        }
+      ]
+    }
+  ],
+  "summary_en": "<extra_id_0>.",
+  "summary_hi": null,
+  "alignment": null
+}

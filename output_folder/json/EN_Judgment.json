@@ -1,0 +1,130 @@
+{
+  "doc_id": "EN_Judgment",
+  "filename": "EN_Judgment.pdf",
+  "language_detected": "en",
+  "ocr_used": false,
+  "md5": "511b0d8d6767289c0d9f84eb7207e858",
+  "word_count": 1610,
+  "citations_count": 2,
+  "citation_contexts": [
+    {
+      "citation": "was_spent_by_the_petitioner_for_his_medical_treatment_which_he_was_compelled_to_",
+      "raw": "was spent by the petitioner for his medical treatment, which he was compelled to take from respondent no.5 on account of the grave threat to his life, and would therefore be entitled to reimbursement of the entire amount, he places reliance on the decisions of this Court in Sqn. Commander Randeep Kumar Rana vs. Union of India, (2004)",
+      "sent_index": 14,
+      "context_window": [
+        "1 to 3 have refused to pay the balance sum of Rs.16,93,880/- to the petitioner on the ground that this amount was charged by the respondent no.5 by ignoring the rates prescribed under the circular dated 20.06.2020 issued by the Government of NCT of Delhi (GNCTD)/respondent no.1, fixing the charges leviable for treatment of patients suffering from Covid-19.",
+        "3.",
+        "He submits that the petitioner cannot be faulted or penalised for the respondent no.5 charging amounts higher than what was prescribed by the respondent nos.1 to 3 and in case, the respondent no.5 has acted in violation of the circular dated 20.06.2020, it is for the respondent nos.1 to 3 to take action against the respondent no.5, and make recoveries, if any, from the said respondent.",
+        "In support of his plea, that once it is admitted that the entire sum of Rs.24,02,380/- was spent by the petitioner for his medical treatment, which he was compelled to take from respondent no.5 on account of the grave threat to his life, and would therefore be entitled to reimbursement of the entire amount, he places reliance on the decisions of this Court in Sqn.",
+        "Commander Randeep Kumar Rana vs.",
+        "Union of India, (2004) SCC Online Del 333 and B.R.",
+        "Goel and Ors."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 14,
+          "sentence": "In support of his plea, that once it is admitted that the entire sum of Rs.24,02,380/- was spent by the petitioner for his medical treatment, which he was compelled to take from respondent no.5 on account of the grave threat to his life, and would therefore be entitled to reimbursement of the entire amount, he places reliance on the decisions of this Court in Sqn.",
+          "score": 1.000000238418579
+        },
+        {
+          "idx": 24,
+          "sentence": "1 to 3 are not really disputing that the petitioner was in compelling circumstances, and in a grave medical emergency forced to take treatment from respondent no.5, and has paid a sum of Rs.24,04,380/- for his treatment between 22.04.2021 to 07.06.2021.",
+          "score": 0.7947547435760498
+        },
+        {
+          "idx": 57,
+          "sentence": "In the light of the aforesaid, I have no hesitation in holding that the  respondent nos.1 to 3 ought to forthwith reimburse the petitioner by paying him the differential amount of Rs.16,93,880/-, and if permissible, recover the same from the respondent no.5.",
+          "score": 0.7346652746200562
+        },
+        {
+          "idx": 37,
+          "sentence": "The petitioner, who had to spend his hard-earned savings, while undergoing treatment to save his life, cannot be simply told that, since respondent no.5 has failed to abide by the circular dated 20.06.2020 issued by the GNCTD, he should seek refund from the said hospital which saved his life.",
+          "score": 0.6988022327423096
+        },
+        {
+          "idx": 31,
+          "sentence": "Having noted the only defence taken by the respondents for not reimbursing the entire amounts to the petitioner, who has not only battled with the deadly Covid-19 after remaining on ventilator for over three weeks, but has also been struggling to seek reimbursement of the amount spent by him in a grave medical emergency.",
+          "score": 0.665985643863678
+        },
+        {
+          "idx": 48,
+          "sentence": "Therefore, once the respondent themselves have recommended the treatment to be taken by the Escorts Hospital, they cannot deny the full reimbursement on the basis that the charges incurred by the petitioner over and above the package rate which the respondent has agreed with the said hospital cannot be reimbursed.",
+          "score": 0.6596865653991699
+        },
+        {
+          "idx": 2,
+          "sentence": "1 to 3 in reimbursing in full the expenses incurred by him for his medical treatment, while he was admitted at the respondent no.5/hospital, between 22.04.2021 to 07.06.2021, on account of Covid-19.",
+          "score": 0.6487945318222046
+        },
+        {
+          "idx": 43,
+          "sentence": "Commander Randeep Kumar Rana (supra), wherein the Division Bench while dealing with a case, where the hospital had charged over and above package rates, held that the employer was under an obligation to pay to the government employee, and could make appropriate recoveries in accordance with law, from the hospital which had overcharged him.",
+          "score": 0.6348251104354858
+        }
+      ],
+      "role": "MENTIONED",
+      "salience": 0.83
+    },
+    {
+      "citation": "SCC_Online_Del_333_and_BR_Goel_and_Ors_Vs_Union_of_India_and_Ors::SCC",
+      "raw": "SCC Online Del 333 and B.R. Goel and Ors. Vs. Union of India and Ors., 2006",
+      "sent_index": 16,
+      "context_window": [
+        "He submits that the petitioner cannot be faulted or penalised for the respondent no.5 charging amounts higher than what was prescribed by the respondent nos.1 to 3 and in case, the respondent no.5 has acted in violation of the circular dated 20.06.2020, it is for the respondent nos.1 to 3 to take action against the respondent no.5, and make recoveries, if any, from the said respondent.",
+        "In support of his plea, that once it is admitted that the entire sum of Rs.24,02,380/- was spent by the petitioner for his medical treatment, which he was compelled to take from respondent no.5 on account of the grave threat to his life, and would therefore be entitled to reimbursement of the entire amount, he places reliance on the decisions of this Court in Sqn.",
+        "Commander Randeep Kumar Rana vs.",
+        "Union of India, (2004) SCC Online Del 333 and B.R.",
+        "Goel and Ors.",
+        "Vs.",
+        "Union of India and Ors., 2006 (92) 4."
+      ],
+      "supporting_sentences": [
+        {
+          "idx": 16,
+          "sentence": "Union of India, (2004) SCC Online Del 333 and B.R.",
+          "score": 1.0
+        },
+        {
+          "idx": 19,
+          "sentence": "Union of India and Ors., 2006 (92) 4.",
+          "score": 0.7164651155471802
+        },
+        {
+          "idx": 44,
+          "sentence": "The relevant extract reads as under: â 5.",
+          "score": 0.3371502757072449
+        },
+        {
+          "idx": 40,
+          "sentence": "16,93,880/-.",
+          "score": 0.33078211545944214
+        },
+        {
+          "idx": 50,
+          "sentence": "There is another letter of the respondent at pages 22-23 of the paperbook in which it has been admitted that Escorts Heart Institute and Research Centre was also one of the hospitals which the petitioner was entitled for treatment.",
+          "score": 0.3244032561779022
+        },
+        {
+          "idx": 20,
+          "sentence": "On the other hand, Mrs.Ahlawat, learned counsel for respondent nos.1 to 3, while not really disputing any of the aforesaid facts, submits that the respondent no.5 should be directed to explain before this Court as to why it has not abided by the circular dated 20.06.2020 issued by the respondent no.1.",
+          "score": 0.31897681951522827
+        },
+        {
+          "idx": 38,
+          "sentence": "This Court does not deem it appropriate or necessary to delve into the validity of the circular dated 20.06.2020, in the present petition, where an officer of Delhi Higher Judicial Service is seeking simpliciter reimbursement of the amount for the bona fide expenses incurred by him for treatment at the respondent no.5 hospital for Covid-19, when the city was engulfed with the second wave of the pandemic.",
+          "score": 0.31729423999786377
+        },
+        {
+          "idx": 7,
+          "sentence": "24,02,380/- as demanded by respondent no.5, against appropriate receipts.",
+          "score": 0.30858951807022095
+        }
+      ],
+      "role": "MENTIONED",
+      "salience": 0.557
+    }
+  ],
+  "summary_en_ctxaware": "3. The respondent nos.1 to 3 have however, refused to pay the balance sum of Rs.16,93,880/-. He submits that the petitioner cannot be faulted or penalised by the respondent no.5. The petitioner has approached this Court being aggrieved by the refusal of... the t nos. 1 to 3. 4. He furthers that he states that: 1. . . . 2. This Court has also argued that the t no.2 to 3, have refused. The conclusion of the learned senior counsel is that it is undisputed that there were no hospital beds available for his treatment at the NCT of Delhi. It is also noted that no.5/hospital. The no. 5. He says. t no. 2. He states no. 2 2, 2 and 3. The No /",
+  "summary_hi_ctxaware": "3. Cass.1 से 3 के लिए है, हालांकि, R.16,93,880/880. उन्होंने आत्मसमर्पण किया है कि निवेदनकर्ता को कोई दोष नहीं किया जा सकता या इनकार नहीं किया जा सकता. निवेदनकर्ता इस अदालत के पास आया है... कि टी.2 से 3, 3 के लिए इनकार किया है. सीखा है कि यह बिना अस्पताल की सलाह है कि दिल्ली की नल में उनके उपचार के लिए कोई अस्पताल बिस्तर उपलब्ध नहीं थे. यह भी नोट किया गया है. कोई भी नोट है. वह कहता है. कोई 2 / 3. वह कहता है, 2 / 3.",
+  "alignment": null
+}
